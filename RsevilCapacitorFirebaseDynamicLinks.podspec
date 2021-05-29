@@ -1,6 +1,6 @@
 
   Pod::Spec.new do |s|
-    s.name = 'TurnouttCapacitorFirebaseDynamicLinks'
+    s.name = 'RsevilCapacitorFirebaseDynamicLinks'
     s.version = '0.2.2'
     s.summary = 'Capacitor Plugin for Firebase Dynamic Links'
     s.license = 'MIT'
